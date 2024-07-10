@@ -3,6 +3,7 @@
     - 📖 Reading
     - 😴 Sleeping
     - 🍱 Eating
+    - 🎮 Gaming
     - 💞️ and repeat
 - 📫 How to reach me @erinycai@gmail.com
 
