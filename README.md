@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @KittensT-T
-- 👀 I’m interested in reading, sleeping, and playing Minecraft.
-- 🌱 I’m currently learning Python and how to code webpages.
-- 💞️ I’m looking to collaborate on programming a game.
+- 👀 I’m interested in:
+    - 📖 Reading
+    - 😴 Sleeping
+    - 💞️ Minecraft PvP
 - 📫 How to reach me @erinycai@gmail.com
 
 <!---
