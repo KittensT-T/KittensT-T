@@ -2,7 +2,8 @@
 - 👀 I’m interested in:
     - 📖 Reading
     - 😴 Sleeping
-    - 💞️ Minecraft PvP
+    - 🍱 Eating
+    - 💞️ and repeat
 - 📫 How to reach me @erinycai@gmail.com
 
 <!---
